@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(234, 230, 224);
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.header {
+   background-color: #f4baf1;
+   color:#fff ;
+}
+
+.header h1 {
+    text-align: center;
+    font-size: 40px;
+    text-indent: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #fe98e8;
+}
+
+a:hover {
+    color:rgb(255, 0, 200);
+}
+
+a:active {
+    color: rgb(225, 138, 206);
+}
+
+ul {
+   list-style: none;
+   padding: 0;
+}
+
+ul.main-menu {
+    background-color: rgb(225, 138, 206);
+    text-indent: 10px;
+    text-transform: uppercase;
+}
+
+p.lead {
+    font-size: 20px;
+    color: rgb(255, 0, 200)
+}
